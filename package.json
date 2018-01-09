@@ -35,7 +35,6 @@
     "express-session": "^1.15.6",
     "massive": "^4.6.2",
     "passport": "^0.4.0",
-    "passport-auth0": "^0.6.1",
     "rc-animate": "^2.4.4",
     "react": "16.0.0",
     "react-dom": "^16.2.0",
