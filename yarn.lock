@@ -7131,8 +7131,6 @@ xdl@47.0.4:
     "@expo/schemer" "1.1.0"
     "@expo/spawn-async" "^1.2.8"
     analytics-node "^2.1.0"
-    auth0 "^2.7.0"
-    auth0-js "^7.4.0"
     axios "^0.16.1"
     bluebird "^3.4.7"
     body-parser "^1.15.2"
